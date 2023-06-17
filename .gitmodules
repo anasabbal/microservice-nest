@@ -1,0 +1,6 @@
+[submodule "api-gateway"]
+    path = api-gateway
+    url = https://github.com/anasabbal/nest-api-gateway-microservice.git
+[submodule "user"]
+    path = user-microservice
+    url = https://github.com/anasabbal/nest-user-microservice.git
