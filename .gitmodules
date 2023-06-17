@@ -2,5 +2,5 @@
     path = api-gateway
     url = https://github.com/anasabbal/nest-api-gateway-microservice.git
 [submodule "user"]
-    path = user-microservice
+    path = user
     url = https://github.com/anasabbal/nest-user-microservice.git
